@@ -1,4 +1,2 @@
-# My App
-This is my App
-
-Change2
+# Practising Markdown
+Getting the hang of this quite quickly
